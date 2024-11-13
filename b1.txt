@@ -1,0 +1,2 @@
+hello guys 
+now data is added to b1.txt 
