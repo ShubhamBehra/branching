@@ -1,0 +1,7 @@
+hi im a4
+file is added without data and commited already
+
+now adding data in a4.txt
+ 
+after that again i will add this file with data 
+and commit it again
